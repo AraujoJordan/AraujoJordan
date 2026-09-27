@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="188" viewBox="0 0 985 188" role="img" aria-labelledby="title desc">
+  <title id="title">Jordan L. Araujo Jr.</title>
+  <desc id="desc">Senior Android Engineer, Kotlin Multiplatform builder, and open source contributor.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.52" stop-color="#173d6d"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#79c0ff" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="985" height="188" rx="18" fill="url(#sky)"/>
+  <path d="M0 144 C180 105 310 191 500 152 S800 112 985 159 L985 188 L0 188 Z" fill="url(#wave)"/>
+  <path d="M0 168 C190 123 357 188 515 173 S831 140 985 171" fill="none" stroke="#a5d6ff" stroke-opacity="0.28" stroke-width="2"/>
+  <text x="492.5" y="79" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="43" font-weight="700" fill="#ffffff">Jordan L. Araujo Jr.</text>
+  <text x="492.5" y="116" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" fill="#d8ebff">Senior Android Engineer · Kotlin Multiplatform · Open Source</text>
+</svg>

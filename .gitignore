@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+assets/*-preview.png
+preview/
+preview.html
+preview-full.png
+preview-light.html
+preview-full-light.png
