@@ -25,21 +25,21 @@ I build mobile apps that stay reliable in the field and tools that make Android 
 ### Products and websites I've worked on
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.servicetitan.work"><img src="assets/products/servicetitan.png" width="160" height="160" alt="ServiceTitan Field" title="ServiceTitan Field" /></a>&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.instacart.client"><img src="assets/products/instacart.png" width="160" height="160" alt="Instacart" title="Instacart" /></a>&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.neofinancial.neo"><img src="assets/products/neo.png" width="160" height="160" alt="Neo Financial" title="Neo Financial" /></a>&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.remitbee.app.app"><img src="assets/products/remitbee.png" width="160" height="160" alt="Remitbee" title="Remitbee" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.servicetitan.work"><img src="assets/products/servicetitan.png" width="140" height="140" alt="ServiceTitan Field" title="ServiceTitan Field" /></a>&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.instacart.client"><img src="assets/products/instacart.png" width="140" height="140" alt="Instacart" title="Instacart" /></a>&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.neofinancial.neo"><img src="assets/products/neo.png" width="140" height="140" alt="Neo Financial" title="Neo Financial" /></a>&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.remitbee.app.app"><img src="assets/products/remitbee.png" width="140" height="140" alt="Remitbee" title="Remitbee" /></a>
 </p>
 
 <p align="center">
-  <a href="https://jesusama.org/"><img src="assets/products/jesusama.svg" width="160" height="160" alt="JesusAMA website" title="JesusAMA" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=wNpkkGpx90M"><img src="assets/products/culturi.svg" width="160" height="160" alt="Culturi app demo" title="Culturi" /></a>&nbsp;&nbsp;
-  <a href="https://americantileinnovation.com/"><img src="assets/products/american-tile.svg" width="160" height="160" alt="American Tile Innovation website" title="American Tile Innovation" /></a>&nbsp;&nbsp;
-  <a href="https://sunshinepromo.shop/"><img src="assets/products/sunshine-promo.svg" width="160" height="160" alt="Sunshine Promo website" title="Sunshine Promo" /></a>
+  <a href="https://jesusama.org/"><img src="assets/products/jesusama.svg" width="140" height="140" alt="JesusAMA website" title="JesusAMA" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=wNpkkGpx90M"><img src="assets/products/culturi.svg" width="140" height="140" alt="Culturi app demo" title="Culturi" /></a>&nbsp;&nbsp;
+  <a href="https://americantileinnovation.com/"><img src="assets/products/american-tile.svg" width="140" height="140" alt="American Tile Innovation website" title="American Tile Innovation" /></a>&nbsp;&nbsp;
+  <a href="https://sunshinepromo.shop/"><img src="assets/products/sunshine-promo.svg" width="140" height="140" alt="Sunshine Promo website" title="Sunshine Promo" /></a>
 </p>
 
 <p align="center">
-  <a href="https://dribbble.com/shots/6200277-Porta-Docs"><img src="assets/products/portadocs.svg" width="160" height="160" alt="PortaDocs project showcase" title="PortaDocs" /></a>
+  <a href="https://dribbble.com/shots/6200277-Porta-Docs"><img src="assets/products/portadocs.svg" width="140" height="140" alt="PortaDocs project showcase" title="PortaDocs" /></a>
 </p>
 
 ### Beyond product teams
